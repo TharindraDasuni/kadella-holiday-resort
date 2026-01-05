@@ -1,63 +1,8 @@
-/*-----------------------------------------------------------------------
-Template Name      : Lucxorio - Luxury Hotel and Resort Booking HTML Template
-Author             : pus_infotech
-Author Portfolio   : https://themeforest.net/user/pus_infotech 
-Version            : 1.0.0 
------------------------------------------------------------------------
-CSS TABLE OF CONTENTS
------------------------------------------------------------------------
-- base 
-    - variables
-    - mixin
-    - reset
-    - typography
-    - forms
+body {
+    font-family: futura-pt, sans-serif;
+}
 
-- components 
-    - accordion
-    - breadcrumb
-    - buttons
-    - offcanvus
-    - widget
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cinzel', serif;
+}
 
-- theme
-    - animations
-    - common
-    - preloader 
-    - spacing
-    - theme-class
- 
-- layout
-    -header
-        - header
-        - meanmenu
-    - footer 
-        - footer
-    - section 
-        - hero 
-        - micon
-        - about
-        - authentication
-        - comingsoon
-        - room
-        - facilities
-        - booking
-        - video
-        - why-choose
-        - our-facts
-        - services
-        - offer
-        - team
-        - testimonials
-        - blog
-        - subscribe
-        - contact
-        - gallery
-        - skill
-        - counter
-        - faq
-        - pricing
-        - restaurant
-        - marquee
-Main Style file-> assets/css/main.css
------------------------------------------------------------------------*/
